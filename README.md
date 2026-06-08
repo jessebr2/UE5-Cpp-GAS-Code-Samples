@@ -81,6 +81,19 @@ ExecutionCalculations/
 * MMC_MaxHealth
 * ExecCalc_Damage
 
+## Featured Demonstration
+
+A gameplay video demonstrating:
+
+- Equipping a magical staff
+- Learning a Fireball ability
+- Ability unlocking and progression
+- Gameplay Ability System integration
+- Projectile spell combat
+
+LinkedIn:
+[<LINK_DO_POST>](https://www.linkedin.com/posts/jesseandrade_games-videogames-gamedev-activity-7241587638485323776-thBT?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLfICEBTT1LV6D8h7ew42QAGuzIKnfvELQ)
+
 ## Original Project
 
 ### Valkyrie's Legacy
